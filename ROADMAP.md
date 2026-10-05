@@ -32,8 +32,8 @@
 
 ### 1-1. Hello World와 Cargo 기초 (1장)
 - [v] `main` 함수와 `println!` 매크로 사용하기
-- [ ] `!`가 매크로 호출을 의미한다는 것 이해하기
-- [ ] Cargo.toml의 `[package]`, `[dependencies]` 구조 이해하기
+- [v] `!`가 매크로 호출을 의미한다는 것 이해하기
+- [v] Cargo.toml의 `[package]`, `[dependencies]` 구조 이해하기 - 이걸로 codex cli는 러스트로 개발 했다는걸 알 수 있음
 
 ### 1-2. 추론 게임 (2장)
 - [ ] `let` 변수 선언과 불변성(기본 immutable) 이해하기
